@@ -23,12 +23,12 @@ The project is a classic *Hangman Game* developed using *Python*, designed to ru
 python HangmanGame.py
 > ✅ Make sure Python 3 is installed on your system.
  
-📚 Acknowledgement
+📚 Acknowledgement :-
 This project was created as part of the CodeAlpha Internship Program – Task 1.
 
-🧑‍💻 Author
+🧑‍💻 Author :-
 Khushal Misal
-GitHub
+(GitHub)
 
 ### ✅ Next Steps for You:
 - Paste the above content in a file named README.md in the root folder of your GitHub repository.
