@@ -6,7 +6,6 @@ The project is a classic *Hangman Game* developed using *Python*, designed to ru
 
 ## 🕹 Features
 - Interactive command-line interface
-- ASCII art for hangman stages
 - Validates user input
 - Tracks correct and incorrect guesses
 - Clean and readable code structure
